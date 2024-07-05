@@ -2,10 +2,11 @@
 whelcome to my page!
 I'm Maryam, java developer currently living in Netherlands.
 
-<!--
-Things I code with:https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png 
-**maryammokhtari/maryammokhtari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Things I code with:https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png
+https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png 
+**maryammokhtari/maryammokhtari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
