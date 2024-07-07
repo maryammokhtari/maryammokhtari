@@ -1,9 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230" >
 
-## Hi there 👋
-
-Welcome to my page!
-I'm Maryam, java developer currently living in Netherlands.
+<h1>Welcome to my page!</h1>
+    <p>I'm Maryam, a passionate Java developer currently living in <span style="color: orange;">the Netherlands</span>.</p>
 
 ## Technologies that I use:
 
@@ -21,9 +19,22 @@ I'm Maryam, java developer currently living in Netherlands.
   <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">
 </p>
 
-## My latest project:
+  <!-- GitHub section -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maryammokhtari&repo=school-app)](https://github.com/maryammokhtari/school-app)
+## My GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
+<div>
+  <a href="https://github.com/maryammokhtari/school-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maryammokhtari&repo=school-app" alt="ReadMe Card" height="130px" width="400px" />
+  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryammokhtari&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" height="130px" width="400px" />
+</div>
+
+
+<!-- GitHub section: END -->
+
+## I'm currently learning:
+Microservice, Cloud Technologies, Message brokers, Security. 
 
 
 ## Follow Me
@@ -32,14 +43,3 @@ I'm Maryam, java developer currently living in Netherlands.
 [![Linkedin Badge](https://img.shields.io/badge/-Maryam_Mokhtarifar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryam-mokhtarifar/)](https://www.linkedin.com/in/maryam-mokhtarifar/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/maryammokhtari/)](https://github.com/maryammokhtari/)
 
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
