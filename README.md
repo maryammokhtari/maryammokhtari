@@ -27,6 +27,10 @@
   <a href="https://github.com/maryammokhtari/school-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maryammokhtari&repo=school-app" alt="ReadMe Card" height="130px" width="400px" />
   </a>
+  <a href="https://github.com/maryammokhtari/e-commerce">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maryammokhtari&repo=e-commerce" alt="ReadMe Card" height="130px" width="400px" />
+  </a>
+    
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maryammokhtari&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Top Languages" height="130px" width="400px" />
 </div>
 
